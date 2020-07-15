@@ -3,7 +3,6 @@ Om de regels te gebruiken voor de HW-Oost Raids app, kopieer dan de inhoud van "
 In dat bestand staan de regels met de juiste opmaak om te kunnen versturen naar nieuwe spelers.
 Hieronder de inhoud van het bestand op een leesbare manier gepresenteerd!
 ---
-# hw-oost-rules
 **REGELS VOOR HW-OOST RAIDS APP**
 
 ***Het organiseren***
