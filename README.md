@@ -61,7 +61,7 @@ Hiermee moet dan duidelijk zijn wie op locatie is, wie op afstand speelt en wie 
 
 In dat geval roep je in de Raids App: Eruit!  
 
-**De persoon die op locatie is, is verantwoordelijk voor het startsein!**
+**De persoon die op locatie is, is verantwoordelijk voor het startsein!**  
 _Mocht er niemand op locatie zijn, dan geeft de persoon die de lijst begonnen is het startsein!_  
 Dit gebeurt ook in de Raids App alsvolgt: ```gym naam``` start!  
 Dit betekend ook dat het dus aan die persoon is of er gewacht wordt of niet.
