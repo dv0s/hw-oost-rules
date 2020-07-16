@@ -83,10 +83,10 @@ TrainerNaam_2, 20, 💙 R
 TrainerNaam_3, 40, ❤️ R  
 **Einde voorbeeld**  
 
-*Kan je toch niet nadat je wel hebt aangemeld?*  
+**Kan je toch niet nadat je wel hebt aangemeld?**  
 Haal dan je naam weer van de lijst!
 
-*Houd het netjes voor iedereen*  
+**Houd het netjes voor iedereen**  
 Door te spammen wordt je uit de groep verwijderd en krijg je een waarschuwing. Daarna word je weer terug toegevoegd.  
 Bij 3 waarschuwingen lig je eruit.  
 
